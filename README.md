@@ -1,3 +1,3 @@
 # notepad
 
-A online web notepad
+A online notepad
